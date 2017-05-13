@@ -227,3 +227,10 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 
+.idea/dbnavigator.xml
+.idea/doc.iml
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+main.pdf
